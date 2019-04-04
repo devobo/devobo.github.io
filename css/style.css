@@ -1,13 +1,18 @@
 .container { 
-	height: 75vh;
+	height: 80vh;
 	position: relative;
 }
 
 .center {
 	margin: 0;
 	position: absolute;
-	top: 60%;
+	top: 55%;
 	left: 50%;
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
+}
+
+.container-bottom { 
+	height: 20vh;
+	position: relative;
 }
